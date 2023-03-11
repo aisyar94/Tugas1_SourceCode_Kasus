@@ -1,4 +1,8 @@
-package com;
+/*NIM   : 13020210004
+Nama    : Aisyah Safira Rachman
+Hari/Tgl: Sabut, 11 Maret 2023
+Waktu   : 02:37 PM*/
+package GantiWaktu;
 import java.util.Scanner;
 
 public class GantiWaktu {
